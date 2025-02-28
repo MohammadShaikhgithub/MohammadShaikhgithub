@@ -12,15 +12,15 @@
 
 <p align="left"> <a href="https://twitter.com/@_m_shaikh08" target="blank"><img src="https://img.shields.io/twitter/follow/@_m_shaikh08?logo=twitter&style=for-the-badge" alt="@_m_shaikh08" /></a> </p>
 
-- 🔭 I’m currently working on **Jal-Jivam**
+- 🔭 I’m currently working on **Jal-Jivan**
 
-- 🌱 I’m currently learning **Java , JavaScript**
+- 🌱 I’m currently learning **Java , Python**
 
-- 💬 Ask me about **Php,HTML,CSS,Bootstrap**
+- 💬 Ask me about **Php,HTML,CSS,Bootstrap, Javascript**
 
 - 📫 How to reach me **mohammad.arsjiya88@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **single semicolon is enough to stress you out**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
